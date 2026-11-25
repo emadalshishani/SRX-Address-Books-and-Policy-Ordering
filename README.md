@@ -29,7 +29,9 @@ The relationship is intentional. The earlier repository documents application-ba
 
 ## Lab topology
 
-The topology image will be stored under `docs/images/` and embedded here after it is added to the repository.
+![SRX Address Books, Nested Address Sets, and Policy Ordering Topology](docs/images/SRX%20AddressBook-Sets%20%26%20Nested-AddressBook%20-Advanced%20Policy%20Topology.svg)
+
+The diagram shows the lab devices, VLAN networks, address groups, and the traffic paths used in the Address Book and policy-ordering experiments.
 
 | Component | Details |
 |---|---|
