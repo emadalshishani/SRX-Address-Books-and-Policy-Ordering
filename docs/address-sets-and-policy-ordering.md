@@ -29,7 +29,11 @@ The previous project created an Ubuntu-specific DNS deny policy. This lab reuses
 | DNS primary | `8.8.8.8/32` |
 | DNS secondary | `8.8.4.4/32` |
 
-The SRX-to-switch transit network is `10.10.10.0/30`. The topology image will be added under [images/](images/) and embedded in this document when uploaded.
+The SRX-to-switch transit network is `10.10.10.0/30`.
+
+![SRX Address Books, Nested Address Sets, and Policy Ordering Topology](images/SRX%20AddressBook-Sets%20%26%20Nested-AddressBook%20-Advanced%20Policy%20Topology.svg)
+
+The diagram provides the visual reference for the devices, VLAN networks, and Address Set relationships used throughout this lab.
 
 ## 3. Relationship to the previous repository
 
